@@ -23,8 +23,8 @@
   - [Оптимизация и мониторинг расширений](https://techrocks.ru/2020/10/30/vs-code-performance-optimization/)
   - [Hot-keys](https://techrocks.ru/2020/05/05/10-interesting-vs-code-shortcuts/)
   - [Useless extensions](https://techrocks.ru/2020/08/06/vs-code-extensions-vs-settings/) дублирование функционала VS
-
-
+## Собеседования, 1 to 1, меторство
+- Интервью6 как ихеническая задача [видео](https://www.youtube.com/watch?v=dw1nVfIpccE), [хабр](https://habr.com/ru/company/oleg-bunin/blog/521582/)
 ## Сети
 Сети для самых маленьких:
 - [Хабр](https://habr.com/ru/post/447080/)
