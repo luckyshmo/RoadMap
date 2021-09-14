@@ -67,7 +67,7 @@
   - Kafka
   - RabbitMQ
 - БД
-  - Реляционные
+  - Реляционные [ddl, dml, dcl, tcl](https://info-comp.ru/what-is-ddl-dml-dcl-tcl)
     - PostgresQL
     - MariaDB
     - Oracle
