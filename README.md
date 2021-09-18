@@ -98,6 +98,7 @@
 - [Паттерны](https://github.com/AlexanderGrom/go-patterns)
 ### RoadMap
 - [Книги](https://github.com/dariubs/GoBooks)
+- [Статьи](https://github.com/enocom/gopher-reading-list)
 - [AwesomeGO](https://github.com/avelino/awesome-go)
 - [RoadmapGO](https://github.com/Alikhll/golang-developer-roadmap)
 - [DeveloperRoadMap](https://github.com/kamranahmedse/developer-roadmap)
