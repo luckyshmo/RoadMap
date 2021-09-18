@@ -105,6 +105,9 @@
 ### Packages
 - [Package layout](https://github.com/golang-standards/project-layout)
 - [15 min about packages](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
+### Testing
+- [ginkgo](https://github.com/onsi/ginkgo) BDD tesint
+- [gomega](https://github.com/onsi/gomega) testing framework
 ### Курсы
 - [Четкие поляки](https://threedots.tech/) - несколько проектов, читая архитекутра, cloud native и вообще годнота 
 - [Go gRPC/REST web services](https://www.youtube.com/channel/UC2V1SxXFUa5YxVJvTsrCgyg)
