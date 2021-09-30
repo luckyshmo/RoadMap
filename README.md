@@ -8,6 +8,7 @@
 - [Основные прицницы Яндекс API](https://cloud.yandex.ru/docs/api-design-guide/concepts/general) REST
 - [Google API](https://cloud.google.com/apis/design) gRPC
 - [CQRS + event sourcing](https://habr.com/ru/post/146429/)
+- [Request balancing](https://www.youtube.com/watch?v=FU4WlwfS3G0&t=787s)
 ## Процесс разработки
 - [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
   - [Лекция 1](https://www.youtube.com/watch?v=CR9mLGN9jh0&ab_channel=DotNext)
