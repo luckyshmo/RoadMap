@@ -10,6 +10,7 @@
 - [CQRS + event sourcing](https://habr.com/ru/post/146429/)
 - [Request balancing](https://www.youtube.com/watch?v=FU4WlwfS3G0&t=787s)
 ## Процесс разработки
+- [Why git glow is bad idea](https://www.youtube.com/watch?v=_w6TwnLCFwA)
 - [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
   - [Лекция 1](https://www.youtube.com/watch?v=CR9mLGN9jh0&ab_channel=DotNext)
   - [Лекция 2](https://www.youtube.com/watch?v=Z6ESG0rnpkI&ab_channel=DotNext)
@@ -25,7 +26,7 @@
   - [Hot-keys](https://techrocks.ru/2020/05/05/10-interesting-vs-code-shortcuts/)
   - [Useless extensions](https://techrocks.ru/2020/08/06/vs-code-extensions-vs-settings/) дублирование функционала VS
 ## Собеседования, 1 to 1, меторство
-- Интервью6 как ихеническая задача [видео](https://www.youtube.com/watch?v=dw1nVfIpccE), [хабр](https://habr.com/ru/company/oleg-bunin/blog/521582/)
+- Интервью как техническая задача [видео](https://www.youtube.com/watch?v=dw1nVfIpccE), [хабр](https://habr.com/ru/company/oleg-bunin/blog/521582/)
 ## Сети
 Сети для самых маленьких:
 - [Хабр](https://habr.com/ru/post/447080/)
