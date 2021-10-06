@@ -121,3 +121,4 @@
 - [Darker corners of go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
 - [ref vs copy](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963) !!
 - [Оптимизация аллокации памяти для структур](https://medium.com/techverito/golang-struct-size-and-memory-optimisation-b46b124f008d)
+- Defer hacks [1](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01),[2](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa),[3](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1)
