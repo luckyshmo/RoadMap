@@ -19,6 +19,20 @@
   - [Docker-compose](https://docs.docker.com/compose/)
   - [Kind vs k3s vs minikube](https://brennerm.github.io/posts/minikube-vs-kind-vs-k3s.html)
   - [Настройка GNOME](https://itsfoss.com/gnome-shell-extensions/)
+  - <details>
+  <summary>macos + iterm2 + touchid = sudo</summary>
+  ```
+  кто пользуется на MacOS iTerm2 и хочет чтоб sudo работало через TouchID делаем:
+sudo chmod 644 /etc/pam.d/sudo
+sudo vim /etc/pam.d/sudo
+добавляем в начало
+auth       sufficient     pam_tid.so
+возвращаем права на место
+sudo chmod 444 /etc/pam.d/sudo
+в самом iTerm2 идем в Prefs → Advanced → Allow sessions to survive logging out and back in
+и выставляем "No"
+  ```
+</details>
 - [Версионирование](https://semver.org/lang/ru/)
 - [Code review](https://m.habr.com/ru/post/473308/) by Google
 - VSCode
@@ -26,7 +40,7 @@
   - [Оптимизация и мониторинг расширений](https://techrocks.ru/2020/10/30/vs-code-performance-optimization/)
   - [Hot-keys](https://techrocks.ru/2020/05/05/10-interesting-vs-code-shortcuts/)
   - [Useless extensions](https://techrocks.ru/2020/08/06/vs-code-extensions-vs-settings/) дублирование функционала VS
-## Собеседования, 1 to 1, меторство
+## Собеседования, 1 to 1, менторство
 - Интервью как техническая задача [видео](https://www.youtube.com/watch?v=dw1nVfIpccE), [хабр](https://habr.com/ru/company/oleg-bunin/blog/521582/)
 ## Сети
 Сети для самых маленьких:
