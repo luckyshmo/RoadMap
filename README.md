@@ -9,6 +9,7 @@
 - [Google API](https://cloud.google.com/apis/design) gRPC
 - [CQRS + event sourcing](https://habr.com/ru/post/146429/)
 - [Request balancing](https://www.youtube.com/watch?v=FU4WlwfS3G0&t=787s)
+- [Rate limiting](https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/)
 ## Процесс разработки
 - [Why git glow is bad idea](https://www.youtube.com/watch?v=_w6TwnLCFwA)
 - [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
