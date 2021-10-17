@@ -130,7 +130,9 @@ sudo chmod 444 /etc/pam.d/sudo
 - [Четкие поляки](https://threedots.tech/) - несколько проектов, читая архитекутра, cloud native и вообще годнота 
 - [Go gRPC/REST web services](https://www.youtube.com/channel/UC2V1SxXFUa5YxVJvTsrCgyg)
 - [Rest API, Telegram bot](https://www.youtube.com/channel/UCHF0TTrKzOASxt4aFByKpnQ) и многое другое
-- [Пара видососов](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw/videos) 
+- [Пара видососов](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw/videos)
+### Concurency
+- [Видео про основные ошибки](https://www.youtube.com/watch?v=4U3EaVufuW4)
 ### Тонкости
 - [Go под капотом](https://www.youtube.com/watch?v=rloqQY9CT8I&ab_channel=KolesaGroup)
 - [Darker corners of go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
