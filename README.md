@@ -11,17 +11,8 @@
 - [Request balancing](https://www.youtube.com/watch?v=FU4WlwfS3G0&t=787s)
 - [Rate limiting](https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/)
 ## Процесс разработки
-- [Why git glow is bad idea](https://www.youtube.com/watch?v=_w6TwnLCFwA)
-- [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
-  - [Лекция 1](https://www.youtube.com/watch?v=CR9mLGN9jh0&ab_channel=DotNext)
-  - [Лекция 2](https://www.youtube.com/watch?v=Z6ESG0rnpkI&ab_channel=DotNext)
-- Локальная разработка
-  - [Docker-compose](https://docs.docker.com/compose/)
-  - [Kind vs k3s vs minikube](https://brennerm.github.io/posts/minikube-vs-kind-vs-k3s.html)
-  - [Настройка GNOME](https://itsfoss.com/gnome-shell-extensions/)
-  - <details>
+<details>
   <summary>macos + iterm2 + touchid = sudo</summary>
-  ```
   кто пользуется на MacOS iTerm2 и хочет чтоб sudo работало через TouchID делаем:
 sudo chmod 644 /etc/pam.d/sudo
 sudo vim /etc/pam.d/sudo
@@ -31,8 +22,16 @@ auth       sufficient     pam_tid.so
 sudo chmod 444 /etc/pam.d/sudo
 в самом iTerm2 идем в Prefs → Advanced → Allow sessions to survive logging out and back in
 и выставляем "No"
-  ```
 </details>
+
+- [Why git glow is bad idea](https://www.youtube.com/watch?v=_w6TwnLCFwA)
+- [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
+  - [Лекция 1](https://www.youtube.com/watch?v=CR9mLGN9jh0&ab_channel=DotNext)
+  - [Лекция 2](https://www.youtube.com/watch?v=Z6ESG0rnpkI&ab_channel=DotNext)
+- Локальная разработка
+  - [Docker-compose](https://docs.docker.com/compose/)
+  - [Kind vs k3s vs minikube](https://brennerm.github.io/posts/minikube-vs-kind-vs-k3s.html)
+  - [Настройка GNOME](https://itsfoss.com/gnome-shell-extensions/)
 - [Версионирование](https://semver.org/lang/ru/)
 - [Code review](https://m.habr.com/ru/post/473308/) by Google
 - VSCode
