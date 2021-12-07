@@ -133,6 +133,7 @@ sudo chmod 444 /etc/pam.d/sudo
 ### Concurency
 - [Видео про основные ошибки](https://www.youtube.com/watch?v=4U3EaVufuW4)
 ### Тонкости
+- [Why does Go not need a fancy expensive garbage collector like Java and C#?](https://itnext.io/go-does-not-need-a-java-style-gc-ac99b8d26c60)
 - [Go под капотом](https://www.youtube.com/watch?v=rloqQY9CT8I&ab_channel=KolesaGroup)
 - [Darker corners of go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
 - [ref vs copy](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963) !!
