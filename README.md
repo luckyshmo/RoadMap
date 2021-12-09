@@ -112,6 +112,7 @@ sudo chmod 444 /etc/pam.d/sudo
 - [SOLID](https://habr.com/ru/post/348852/) в Go Хабр
 - [SOLID](https://habr.com/ru/post/348852/) в Go Medium
 - [Паттерны](https://github.com/AlexanderGrom/go-patterns)
+- [Mat Ryer - How I Write HTTP Web Services](https://www.youtube.com/watch?v=rWBSMsLG8po)
 ### RoadMap
 - [Книги](https://github.com/dariubs/GoBooks)
 - [Статьи](https://github.com/enocom/gopher-reading-list)
