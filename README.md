@@ -111,9 +111,11 @@ sudo chmod 444 /etc/pam.d/sudo
 ### Архитектура
 - [SOLID](https://habr.com/ru/post/348852/) в Go Хабр
 - [SOLID](https://habr.com/ru/post/348852/) в Go Medium
-- [Паттерны](https://github.com/AlexanderGrom/go-patterns)
-- [Classic patterns](https://refactoring.guru/design-patterns/go)
 - [Mat Ryer - How I Write HTTP Web Services](https://www.youtube.com/watch?v=rWBSMsLG8po)
+### Patterns
+- [Rob Pike Concurrency](https://talks.golang.org/2012/concurrency.slide#50)
+- [Github repo](https://github.com/AlexanderGrom/go-patterns)
+- [Classic patterns](https://refactoring.guru/design-patterns/go)
 ### RoadMap
 - [Книги](https://github.com/dariubs/GoBooks)
 - [Статьи](https://github.com/enocom/gopher-reading-list)
