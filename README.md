@@ -127,6 +127,7 @@ sudo chmod 444 /etc/pam.d/sudo
 - [Package layout](https://github.com/golang-standards/project-layout)
 - [15 min about packages](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
 ### Testing
+- [Mocktail](https://github.com/Huseyinnurbaki/mocktail#quickstart) server to mock APIs
 - [ginkgo](https://github.com/onsi/ginkgo) BDD tesint
 - [gomega](https://github.com/onsi/gomega) testing framework
 ### Курсы
