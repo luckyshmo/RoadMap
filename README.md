@@ -141,6 +141,7 @@ https://github.com/kyleconroy/sqlc - sql gen
 - [Пара видососов](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw/videos)
 ### Concurency
 - [Pong lib](https://github.com/alitto/pond) - lightweight workerpool
+- [Event listen lib](https://github.com/nuttech/bell)
 - [Видео про основные ошибки](https://www.youtube.com/watch?v=4U3EaVufuW4)
 ### Тонкости
 - [Why does Go not need a fancy expensive garbage collector like Java and C#?](https://itnext.io/go-does-not-need-a-java-style-gc-ac99b8d26c60)
