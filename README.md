@@ -109,8 +109,9 @@ sudo chmod 444 /etc/pam.d/sudo
 
 ## GoLang
 ### SQL
-https://github.com/go-jet/jet
-https://github.com/kyleconroy/sqlc
+https://github.com/daodao97/ggm - orm на базе sqlx
+https://github.com/go-jet/jet - sql gen
+https://github.com/kyleconroy/sqlc - sql gen
 ### Архитектура
 - [SOLID](https://habr.com/ru/post/348852/) в Go Хабр
 - [SOLID](https://habr.com/ru/post/348852/) в Go Medium
