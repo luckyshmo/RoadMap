@@ -107,6 +107,9 @@ sudo chmod 444 /etc/pam.d/sudo
 - [DevOps channel](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) - идеально для начала погружения
 - [Flant](https://habr.com/ru/company/flant/) - весьма достойный блог по девопсу на Хабре
 
+## Utility
+https://github.com/nikolaydubina/go-binsize-treemap
+
 ## GoLang
 ### SQL
 https://github.com/daodao97/ggm - orm на базе sqlx
