@@ -108,6 +108,9 @@ sudo chmod 444 /etc/pam.d/sudo
 - [Flant](https://habr.com/ru/company/flant/) - весьма достойный блог по девопсу на Хабре
 
 ## GoLang
+### SQL
+https://github.com/go-jet/jet
+https://github.com/kyleconroy/sqlc
 ### Архитектура
 - [SOLID](https://habr.com/ru/post/348852/) в Go Хабр
 - [SOLID](https://habr.com/ru/post/348852/) в Go Medium
