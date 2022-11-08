@@ -124,6 +124,8 @@ https://github.com/kyleconroy/sqlc - sql gen
 - [Rob Pike Concurrency](https://talks.golang.org/2012/concurrency.slide#50)
 - [Github repo](https://github.com/AlexanderGrom/go-patterns)
 - [Classic patterns](https://refactoring.guru/design-patterns/go)
+- [Channels](https://openziti.io/golang-aha-moments-channels)
+- [Generics](https://openziti.io/golang-aha-moments-generics)
 ### RoadMap
 - [Книги](https://github.com/dariubs/GoBooks)
 - [Статьи](https://github.com/enocom/gopher-reading-list)
