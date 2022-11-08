@@ -140,6 +140,7 @@ https://github.com/kyleconroy/sqlc - sql gen
 - [Mocktail](https://github.com/Huseyinnurbaki/mocktail#quickstart) server to mock APIs
 - [ginkgo](https://github.com/onsi/ginkgo) BDD tesint
 - [gomega](https://github.com/onsi/gomega) testing framework
+- [Inside go profiler](https://sumercip.com/posts/inside-the-go-cpu-profiler/)
 ### Курсы
 - [Четкие поляки](https://threedots.tech/) - несколько проектов, читая архитекутра, cloud native и вообще годнота 
 - [Go gRPC/REST web services](https://www.youtube.com/channel/UC2V1SxXFUa5YxVJvTsrCgyg)
