@@ -70,6 +70,7 @@ sudo chmod 444 /etc/pam.d/sudo
   - [Test client (evans)](https://github.com/ktr0731/evans#from-github-releases)
   - [Handling erros](https://github.com/avinassh/grpc-errors)
   - [Видосик](https://www.youtube.com/watch?v=z-mHhobE0Pw&t=791s&ab_channel=GopherSchool) по написанию протсnенького сервера на Go
+  - [App scaffold generation](https://autostrada.dev/)
   - [GRPC-web](https://github.com/grpc/grpc-web)
   - [Envoy Proxy](https://github.com/envoyproxy/envoy)
   - [Protoc](https://github.com/protocolbuffers/protobuf) - утилита для генерации кода из .proto
