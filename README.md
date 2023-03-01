@@ -70,7 +70,6 @@ sudo chmod 444 /etc/pam.d/sudo
   - [Test client (evans)](https://github.com/ktr0731/evans#from-github-releases)
   - [Handling erros](https://github.com/avinassh/grpc-errors)
   - [Видосик](https://www.youtube.com/watch?v=z-mHhobE0Pw&t=791s&ab_channel=GopherSchool) по написанию протсnенького сервера на Go
-  - [App scaffold generation](https://autostrada.dev/)
   - [GRPC-web](https://github.com/grpc/grpc-web)
   - [Envoy Proxy](https://github.com/envoyproxy/envoy)
   - [Protoc](https://github.com/protocolbuffers/protobuf) - утилита для генерации кода из .proto
@@ -113,6 +112,8 @@ sudo chmod 444 /etc/pam.d/sudo
 https://github.com/nikolaydubina/go-binsize-treemap
 
 ## GoLang
+- [Google style guide](https://google.github.io/styleguide/go/index)
+- [App scaffold generation](https://autostrada.dev/)
 ### SQL
 https://github.com/daodao97/ggm - orm на базе sqlx
 https://github.com/go-jet/jet - sql gen
