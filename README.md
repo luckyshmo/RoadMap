@@ -24,6 +24,7 @@ sudo chmod 444 /etc/pam.d/sudo
 и выставляем "No"
 </details>
 
+- [Процессы в команде разработки](https://mellarius.ru/processes#success-factors-of-implementation) и в целом куча инфы полезной для управления командами и построения процессов
 - [Why git glow is bad idea](https://www.youtube.com/watch?v=_w6TwnLCFwA)
 - [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
   - [Лекция 1](https://www.youtube.com/watch?v=CR9mLGN9jh0&ab_channel=DotNext)
@@ -110,6 +111,10 @@ sudo chmod 444 /etc/pam.d/sudo
 
 ## Utility
 https://github.com/nikolaydubina/go-binsize-treemap
+
+## Blogs
+[ByteByteGo](https://blog.bytebytego.com/archive?sort=new)
+[ThreeDotsLab](https://threedots.tech/)
 
 ## GoLang
 - [Google style guide](https://google.github.io/styleguide/go/index)
