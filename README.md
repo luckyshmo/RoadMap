@@ -108,6 +108,7 @@ sudo chmod 444 /etc/pam.d/sudo
 - [DevOps channel](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) - идеально для начала погружения
 - [Flant](https://habr.com/ru/company/flant/) - весьма достойный блог по девопсу на Хабре
 - [wildcart ssl generation](https://www.youtube.com/watch?v=cvGFTuZ2TRo&ab_channel=AntonPutra) 
+- [Container layers inspector](https://github.com/wagoodman/dive)
 
 ## Utility
 https://github.com/nikolaydubina/go-binsize-treemap
