@@ -155,6 +155,7 @@ https://github.com/kyleconroy/sqlc - sql gen
 - [Rest API, Telegram bot](https://www.youtube.com/channel/UCHF0TTrKzOASxt4aFByKpnQ) и многое другое
 - [Пара видососов](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw/videos)
 ### Concurency
+- [Go Scheduling article](https://www.kelche.co/blog/go/golang-scheduling/)
 - [Pong lib](https://github.com/alitto/pond) - lightweight workerpool
 - [Event listen lib](https://github.com/nuttech/bell)
 - [Machibery](https://github.com/RichardKnop/machinery) an asynchronous task queue/job queue based on distributed message passing.
