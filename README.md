@@ -155,6 +155,7 @@ https://github.com/kyleconroy/sqlc - sql gen
 - [Rest API, Telegram bot](https://www.youtube.com/channel/UCHF0TTrKzOASxt4aFByKpnQ) и многое другое
 - [Пара видососов](https://www.youtube.com/channel/UCiAcG4aoU64TyV6zCjrgYkw/videos)
 ### Concurency
+- [Устройство каналов](https://www.youtube.com/watch?v=ZTJcaP4G4JM&list=WL&index=18&ab_channel=%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%D0%A2%D1%83%D0%B7%D0%BE%D0%B2%E2%80%94Golang)
 - [Go Scheduling article](https://www.kelche.co/blog/go/golang-scheduling/)
 - [Pong lib](https://github.com/alitto/pond) - lightweight workerpool
 - [Event listen lib](https://github.com/nuttech/bell)
