@@ -1,6 +1,7 @@
 # RoadMap
 
 ## Архитектура
+- [System Design Primer](https://github.com/donnemartin/system-design-primer#layer-4-load-balancing)
 - [Приложение двенадцати факторов](https://12factor.net/ru/) 
 - [Чистая архитекутра](https://habr.com/ru/post/269589/) - сатья на Хабре
 - [UUID](https://ru.wikipedia.org/wiki/UUID) или генерация ID в распределных системах
